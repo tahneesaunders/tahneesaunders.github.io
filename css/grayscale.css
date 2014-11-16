@@ -3,11 +3,18 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ 
+.profile{
+    border-radius: 50%;
+    -webkit-border-radius:50%;
+    margin: 20px 0;
+    max-width:100%;
+}
 
 body {
     width: 100%;
     height: 100%;
-    font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+/*     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif; */
     color: #fff;
     background-color: #000;
 }
